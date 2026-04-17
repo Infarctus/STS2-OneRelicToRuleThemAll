@@ -1,0 +1,14 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea/
+.godot/
+*.uid
+OneRelicToRuleThemAll.sln.DotSettings
+OneRelicToRuleThemAll.sln.DotSettings.user
+*.csproj.user
+export_presets.cfg
+*.import
+project.godot
